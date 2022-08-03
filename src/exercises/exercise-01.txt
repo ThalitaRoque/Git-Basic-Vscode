@@ -1,0 +1,2 @@
+Add any text value inside the new file and save the new file
+Add the file to the staging index with the Git plugin
